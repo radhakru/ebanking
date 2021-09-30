@@ -1,0 +1,291 @@
+2021-09-23 11:59:58,434 - ebanking -INFO -Enter username
+2021-09-23 11:59:58,602 - ebanking -INFO -Enter password
+2021-09-23 12:05:59,058 - ebanking -INFO -set username
+2021-09-23 12:05:59,198 - ebanking -INFO -set password
+2021-09-23 12:06:00,021 - ebanking -INFO -submit
+2021-09-23 12:06:00,023 - ebanking -INFO -enter in alert page
+2021-09-23 12:06:01,252 - ebanking -INFO -Accept the alert
+2021-09-23 12:06:01,324 - ebanking -INFO -set username
+2021-09-23 12:06:01,376 - ebanking -INFO -set password
+2021-09-23 12:06:01,818 - ebanking -INFO -submit
+2021-09-23 12:06:01,818 - ebanking -INFO -enter in alert page
+2021-09-23 12:06:03,108 - ebanking -INFO -Accept the alert
+2021-09-23 12:06:03,175 - ebanking -INFO -set username
+2021-09-23 12:06:03,229 - ebanking -INFO -set password
+2021-09-23 12:06:03,662 - ebanking -INFO -submit
+2021-09-23 12:06:03,662 - ebanking -INFO -enter in alert page
+2021-09-23 12:06:05,216 - ebanking -INFO -Accept the alert
+2021-09-23 17:04:41,177 - ebanking -INFO -set username
+2021-09-23 17:04:41,305 - ebanking -INFO -set password
+2021-09-23 17:04:42,146 - ebanking -INFO -submit
+2021-09-23 17:04:42,147 - ebanking -INFO -enter in alert page
+2021-09-23 17:04:43,682 - ebanking -INFO -Accept the alert
+2021-09-23 17:09:38,714 - ebanking -INFO -Enter username
+2021-09-23 17:09:38,879 - ebanking -INFO -Enter password
+2021-09-23 17:31:25,085 - ebanking -INFO -Enter username
+2021-09-23 17:31:25,269 - ebanking -INFO -Enter password
+2021-09-23 17:39:42,669 - ebanking -INFO -Enter username
+2021-09-23 17:39:42,788 - ebanking -INFO -Enter password
+2021-09-23 17:49:31,558 - ebanking -INFO -Enter username
+2021-09-23 17:49:31,665 - ebanking -INFO -Enter password
+2021-09-23 18:04:28,565 - ebanking -INFO -Enter username
+2021-09-23 18:04:28,764 - ebanking -INFO -Enter password
+2021-09-23 19:37:59,465 - ebanking -INFO -Enter username
+2021-09-23 19:37:59,621 - ebanking -INFO -Enter password
+2021-09-25 12:56:03,143 - ebanking -INFO -Enter username
+2021-09-25 12:56:03,265 - ebanking -INFO -Enter password
+2021-09-25 13:19:50,764 - ebanking -INFO -Enter username
+2021-09-25 13:19:50,894 - ebanking -INFO -Enter password
+2021-09-25 13:30:15,363 - ebanking -INFO -Enter username
+2021-09-25 13:30:15,529 - ebanking -INFO -Enter password
+2021-09-25 13:43:42,896 - ebanking -INFO -Enter username
+2021-09-25 13:43:43,080 - ebanking -INFO -Enter password
+2021-09-25 13:47:49,514 - ebanking -INFO -Enter username
+2021-09-25 13:47:49,685 - ebanking -INFO -Enter password
+2021-09-25 13:49:42,490 - ebanking -INFO -Enter username
+2021-09-25 13:49:42,635 - ebanking -INFO -Enter password
+2021-09-25 13:54:15,400 - ebanking -INFO -Enter username
+2021-09-25 13:54:15,573 - ebanking -INFO -Enter password
+2021-09-25 13:55:56,698 - ebanking -INFO -Enter username
+2021-09-25 13:55:56,851 - ebanking -INFO -Enter password
+2021-09-25 14:00:03,669 - ebanking -INFO -Enter username
+2021-09-25 14:00:03,809 - ebanking -INFO -Enter password
+2021-09-25 14:02:17,924 - ebanking -INFO -Enter username
+2021-09-25 14:02:18,071 - ebanking -INFO -Enter password
+2021-09-25 14:50:31,701 - ebanking -INFO -Enter username
+2021-09-25 14:50:31,855 - ebanking -INFO -Enter password
+2021-09-25 15:05:34,469 - ebanking -INFO -Enter username
+2021-09-25 15:05:34,637 - ebanking -INFO -Enter password
+2021-09-25 15:31:37,212 - ebanking -INFO -Enter username
+2021-09-25 15:31:37,368 - ebanking -INFO -Enter password
+2021-09-25 15:37:52,174 - ebanking -INFO -Enter username
+2021-09-25 15:37:52,314 - ebanking -INFO -Enter password
+2021-09-25 15:38:41,109 - ebanking -INFO -Enter username
+2021-09-25 15:38:41,262 - ebanking -INFO -Enter password
+2021-09-26 12:27:49,607 - ebanking -INFO -Enter username
+2021-09-26 12:27:49,750 - ebanking -INFO -Enter password
+2021-09-26 12:28:42,619 - ebanking -INFO -Enter username
+2021-09-26 12:28:42,789 - ebanking -INFO -Enter password
+2021-09-26 12:30:49,526 - ebanking -INFO -Enter username
+2021-09-26 12:30:49,698 - ebanking -INFO -Enter password
+2021-09-26 12:30:57,586 - ebanking -INFO -set username
+2021-09-26 12:30:57,671 - ebanking -INFO -set password
+2021-09-26 12:30:58,199 - ebanking -INFO -submit
+2021-09-26 12:30:58,200 - ebanking -INFO -enter in alert page
+2021-09-26 12:30:59,905 - ebanking -INFO -Accept the alert
+2021-09-26 12:30:59,985 - ebanking -INFO -set username
+2021-09-26 12:31:00,062 - ebanking -INFO -set password
+2021-09-26 12:31:00,555 - ebanking -INFO -submit
+2021-09-26 12:31:00,555 - ebanking -INFO -enter in alert page
+2021-09-26 12:31:02,028 - ebanking -INFO -Accept the alert
+2021-09-26 12:31:02,105 - ebanking -INFO -set username
+2021-09-26 12:31:02,172 - ebanking -INFO -set password
+2021-09-26 12:31:02,608 - ebanking -INFO -submit
+2021-09-26 12:31:02,608 - ebanking -INFO -enter in alert page
+2021-09-26 12:31:04,027 - ebanking -INFO -Accept the alert
+2021-09-26 12:34:13,623 - ebanking -INFO -Enter username
+2021-09-26 12:34:13,792 - ebanking -INFO -Enter password
+2021-09-26 12:34:22,022 - ebanking -INFO -set username
+2021-09-26 12:34:22,196 - ebanking -INFO -set password
+2021-09-26 12:34:23,137 - ebanking -INFO -submit
+2021-09-26 12:34:23,139 - ebanking -INFO -enter in alert page
+2021-09-26 12:34:24,960 - ebanking -INFO -Accept the alert
+2021-09-26 12:34:25,053 - ebanking -INFO -set username
+2021-09-26 12:34:25,144 - ebanking -INFO -set password
+2021-09-26 12:34:25,624 - ebanking -INFO -submit
+2021-09-26 12:34:25,625 - ebanking -INFO -enter in alert page
+2021-09-26 12:34:27,379 - ebanking -INFO -Accept the alert
+2021-09-26 12:34:27,448 - ebanking -INFO -set username
+2021-09-26 12:34:27,508 - ebanking -INFO -set password
+2021-09-26 12:34:28,017 - ebanking -INFO -submit
+2021-09-26 12:34:28,018 - ebanking -INFO -enter in alert page
+2021-09-26 12:34:29,780 - ebanking -INFO -Accept the alert
+2021-09-26 13:03:24,938 - ebanking -INFO -Enter username
+2021-09-26 13:03:25,100 - ebanking -INFO -Enter password
+2021-09-26 13:03:33,555 - ebanking -INFO -set username
+2021-09-26 13:03:33,638 - ebanking -INFO -set password
+2021-09-26 13:03:34,456 - ebanking -INFO -submit
+2021-09-26 13:03:34,456 - ebanking -INFO -enter in alert page
+2021-09-26 13:03:35,902 - ebanking -INFO -Accept the alert
+2021-09-26 13:03:35,965 - ebanking -INFO -set username
+2021-09-26 13:03:36,013 - ebanking -INFO -set password
+2021-09-26 13:03:36,497 - ebanking -INFO -submit
+2021-09-26 13:03:36,498 - ebanking -INFO -enter in alert page
+2021-09-26 13:03:37,886 - ebanking -INFO -Accept the alert
+2021-09-26 13:03:37,954 - ebanking -INFO -set username
+2021-09-26 13:03:38,004 - ebanking -INFO -set password
+2021-09-26 13:03:38,493 - ebanking -INFO -submit
+2021-09-26 13:03:38,493 - ebanking -INFO -enter in alert page
+2021-09-26 13:03:40,402 - ebanking -INFO -Accept the alert
+2021-09-26 13:05:41,132 - ebanking -INFO -Enter username
+2021-09-26 13:05:41,297 - ebanking -INFO -Enter password
+2021-09-26 13:05:48,334 - ebanking -INFO -set username
+2021-09-26 13:05:48,421 - ebanking -INFO -set password
+2021-09-26 13:05:48,877 - ebanking -INFO -submit
+2021-09-26 13:05:48,877 - ebanking -INFO -enter in alert page
+2021-09-26 13:05:50,650 - ebanking -INFO -Accept the alert
+2021-09-26 13:05:50,721 - ebanking -INFO -set username
+2021-09-26 13:05:50,771 - ebanking -INFO -set password
+2021-09-26 13:05:51,310 - ebanking -INFO -submit
+2021-09-26 13:05:51,311 - ebanking -INFO -enter in alert page
+2021-09-26 13:05:53,375 - ebanking -INFO -Accept the alert
+2021-09-26 13:05:53,438 - ebanking -INFO -set username
+2021-09-26 13:05:53,487 - ebanking -INFO -set password
+2021-09-26 13:05:53,955 - ebanking -INFO -submit
+2021-09-26 13:05:53,955 - ebanking -INFO -enter in alert page
+2021-09-26 13:05:55,682 - ebanking -INFO -Accept the alert
+2021-09-29 08:26:23,318 - ebanking -INFO -Enter username
+2021-09-29 08:26:23,484 - ebanking -INFO -Enter password
+2021-09-29 08:26:31,693 - ebanking -INFO -set username
+2021-09-29 08:26:31,784 - ebanking -INFO -set password
+2021-09-29 08:26:32,594 - ebanking -INFO -submit
+2021-09-29 08:26:32,595 - ebanking -INFO -enter in alert page
+2021-09-29 08:26:34,327 - ebanking -INFO -Accept the alert
+2021-09-29 08:26:34,396 - ebanking -INFO -set username
+2021-09-29 08:26:34,450 - ebanking -INFO -set password
+2021-09-29 08:26:34,921 - ebanking -INFO -submit
+2021-09-29 08:26:34,922 - ebanking -INFO -enter in alert page
+2021-09-29 08:26:36,649 - ebanking -INFO -Accept the alert
+2021-09-29 08:26:36,718 - ebanking -INFO -set username
+2021-09-29 08:26:36,771 - ebanking -INFO -set password
+2021-09-29 08:26:37,606 - ebanking -INFO -submit
+2021-09-29 08:26:37,608 - ebanking -INFO -enter in alert page
+2021-09-29 08:26:39,395 - ebanking -INFO -Accept the alert
+2021-09-29 08:27:49,531 - ebanking -INFO -Enter username
+2021-09-29 08:27:49,674 - ebanking -INFO -Enter password
+2021-09-29 08:27:57,836 - ebanking -INFO -set username
+2021-09-29 08:27:57,951 - ebanking -INFO -set password
+2021-09-29 08:27:58,834 - ebanking -INFO -submit
+2021-09-29 08:27:58,834 - ebanking -INFO -enter in alert page
+2021-09-29 08:28:00,582 - ebanking -INFO -Accept the alert
+2021-09-29 08:28:00,662 - ebanking -INFO -set username
+2021-09-29 08:28:00,729 - ebanking -INFO -set password
+2021-09-29 08:28:01,187 - ebanking -INFO -submit
+2021-09-29 08:28:01,187 - ebanking -INFO -enter in alert page
+2021-09-29 08:28:02,943 - ebanking -INFO -Accept the alert
+2021-09-29 08:28:03,012 - ebanking -INFO -set username
+2021-09-29 08:28:03,066 - ebanking -INFO -set password
+2021-09-29 08:28:03,877 - ebanking -INFO -submit
+2021-09-29 08:28:03,878 - ebanking -INFO -enter in alert page
+2021-09-29 08:28:05,795 - ebanking -INFO -Accept the alert
+2021-09-29 08:30:05,051 - ebanking -INFO -Enter username
+2021-09-29 08:30:05,185 - ebanking -INFO -Enter password
+2021-09-29 08:30:13,711 - ebanking -INFO -set username
+2021-09-29 08:30:13,795 - ebanking -INFO -set password
+2021-09-29 08:30:14,621 - ebanking -INFO -submit
+2021-09-29 08:30:14,622 - ebanking -INFO -enter in alert page
+2021-09-29 08:30:16,441 - ebanking -INFO -Accept the alert
+2021-09-29 08:30:16,510 - ebanking -INFO -set username
+2021-09-29 08:30:16,568 - ebanking -INFO -set password
+2021-09-29 08:30:17,058 - ebanking -INFO -submit
+2021-09-29 08:30:17,058 - ebanking -INFO -enter in alert page
+2021-09-29 08:30:18,548 - ebanking -INFO -Accept the alert
+2021-09-29 08:30:18,614 - ebanking -INFO -set username
+2021-09-29 08:30:18,671 - ebanking -INFO -set password
+2021-09-29 08:30:19,150 - ebanking -INFO -submit
+2021-09-29 08:30:19,150 - ebanking -INFO -enter in alert page
+2021-09-29 08:30:21,080 - ebanking -INFO -Accept the alert
+2021-09-29 08:43:28,500 - ebanking -INFO -Enter username
+2021-09-29 08:43:28,665 - ebanking -INFO -Enter password
+2021-09-29 08:43:36,846 - ebanking -INFO -set username
+2021-09-29 08:43:36,921 - ebanking -INFO -set password
+2021-09-29 08:43:37,446 - ebanking -INFO -submit
+2021-09-29 08:43:37,449 - ebanking -INFO -enter in alert page
+2021-09-29 08:43:39,575 - ebanking -INFO -Accept the alert
+2021-09-29 08:43:39,648 - ebanking -INFO -set username
+2021-09-29 08:43:39,715 - ebanking -INFO -set password
+2021-09-29 08:43:40,179 - ebanking -INFO -submit
+2021-09-29 08:43:40,180 - ebanking -INFO -enter in alert page
+2021-09-29 08:43:41,924 - ebanking -INFO -Accept the alert
+2021-09-29 08:43:42,004 - ebanking -INFO -set username
+2021-09-29 08:43:42,076 - ebanking -INFO -set password
+2021-09-29 08:43:42,520 - ebanking -INFO -submit
+2021-09-29 08:43:42,520 - ebanking -INFO -enter in alert page
+2021-09-29 08:43:44,581 - ebanking -INFO -Accept the alert
+2021-09-29 08:47:04,309 - ebanking -INFO -Enter username
+2021-09-29 08:47:04,481 - ebanking -INFO -Enter password
+2021-09-29 08:47:53,051 - ebanking -INFO -Enter username
+2021-09-29 08:47:53,164 - ebanking -INFO -Enter password
+2021-09-29 08:47:54,203 - ebanking -INFO -Enter username
+2021-09-29 08:47:54,318 - ebanking -INFO -Enter password
+2021-09-29 08:48:02,979 - ebanking -INFO -set username
+2021-09-29 08:48:03,065 - ebanking -INFO -set username
+2021-09-29 08:48:03,123 - ebanking -INFO -set password
+2021-09-29 08:48:03,226 - ebanking -INFO -set password
+2021-09-29 08:48:04,077 - ebanking -INFO -submit
+2021-09-29 08:48:04,079 - ebanking -INFO -enter in alert page
+2021-09-29 08:48:04,108 - ebanking -INFO -submit
+2021-09-29 08:48:04,111 - ebanking -INFO -enter in alert page
+2021-09-29 08:48:05,936 - ebanking -INFO -Accept the alert
+2021-09-29 08:48:06,028 - ebanking -INFO -set username
+2021-09-29 08:48:06,125 - ebanking -INFO -set password
+2021-09-29 08:48:06,562 - ebanking -INFO -Accept the alert
+2021-09-29 08:48:06,636 - ebanking -INFO -submit
+2021-09-29 08:48:06,636 - ebanking -INFO -enter in alert page
+2021-09-29 08:48:06,702 - ebanking -INFO -set username
+2021-09-29 08:48:06,783 - ebanking -INFO -set password
+2021-09-29 08:48:07,266 - ebanking -INFO -submit
+2021-09-29 08:48:07,267 - ebanking -INFO -enter in alert page
+2021-09-29 08:48:08,665 - ebanking -INFO -Accept the alert
+2021-09-29 08:48:08,741 - ebanking -INFO -set username
+2021-09-29 08:48:08,810 - ebanking -INFO -set password
+2021-09-29 08:48:09,257 - ebanking -INFO -submit
+2021-09-29 08:48:09,258 - ebanking -INFO -enter in alert page
+2021-09-29 08:48:09,360 - ebanking -INFO -Accept the alert
+2021-09-29 08:48:09,450 - ebanking -INFO -set username
+2021-09-29 08:48:09,525 - ebanking -INFO -set password
+2021-09-29 08:48:09,987 - ebanking -INFO -submit
+2021-09-29 08:48:09,988 - ebanking -INFO -enter in alert page
+2021-09-29 08:48:10,678 - ebanking -INFO -Accept the alert
+2021-09-29 08:48:11,778 - ebanking -INFO -Accept the alert
+2021-09-29 08:48:37,509 - ebanking -INFO -Enter username
+2021-09-29 08:48:37,619 - ebanking -INFO -Enter password
+2021-09-29 08:48:45,028 - ebanking -INFO -set username
+2021-09-29 08:48:45,091 - ebanking -INFO -set password
+2021-09-29 08:48:45,693 - ebanking -INFO -submit
+2021-09-29 08:48:45,694 - ebanking -INFO -enter in alert page
+2021-09-29 08:48:47,592 - ebanking -INFO -Accept the alert
+2021-09-29 08:48:47,653 - ebanking -INFO -set username
+2021-09-29 08:48:47,704 - ebanking -INFO -set password
+2021-09-29 08:48:48,151 - ebanking -INFO -submit
+2021-09-29 08:48:48,152 - ebanking -INFO -enter in alert page
+2021-09-29 08:48:49,507 - ebanking -INFO -Accept the alert
+2021-09-29 08:48:49,562 - ebanking -INFO -set username
+2021-09-29 08:48:49,618 - ebanking -INFO -set password
+2021-09-29 08:48:50,136 - ebanking -INFO -submit
+2021-09-29 08:48:50,137 - ebanking -INFO -enter in alert page
+2021-09-29 08:48:51,555 - ebanking -INFO -Accept the alert
+2021-09-29 10:11:34,983 - ebanking -INFO -Enter username
+2021-09-29 10:11:35,075 - ebanking -INFO -Enter password
+2021-09-29 10:11:46,154 - ebanking -INFO -set username
+2021-09-29 10:11:46,249 - ebanking -INFO -set password
+2021-09-29 10:11:47,053 - ebanking -INFO -submit
+2021-09-29 10:11:47,054 - ebanking -INFO -enter in alert page
+2021-09-29 10:11:48,441 - ebanking -INFO -Accept the alert
+2021-09-29 10:11:48,561 - ebanking -INFO -set username
+2021-09-29 10:11:48,648 - ebanking -INFO -set password
+2021-09-29 10:11:49,145 - ebanking -INFO -submit
+2021-09-29 10:11:49,146 - ebanking -INFO -enter in alert page
+2021-09-29 10:11:50,932 - ebanking -INFO -Accept the alert
+2021-09-29 10:11:51,013 - ebanking -INFO -set username
+2021-09-29 10:11:51,084 - ebanking -INFO -set password
+2021-09-29 10:11:51,541 - ebanking -INFO -submit
+2021-09-29 10:11:51,543 - ebanking -INFO -enter in alert page
+2021-09-29 10:11:53,302 - ebanking -INFO -Accept the alert
+2021-09-29 10:12:18,288 - ebanking -INFO -Enter username
+2021-09-29 10:12:18,390 - ebanking -INFO -Enter password
+2021-09-29 10:12:27,904 - ebanking -INFO -set username
+2021-09-29 10:12:27,980 - ebanking -INFO -set password
+2021-09-29 10:12:28,477 - ebanking -INFO -submit
+2021-09-29 10:12:28,477 - ebanking -INFO -enter in alert page
+2021-09-29 10:12:30,267 - ebanking -INFO -Accept the alert
+2021-09-29 10:12:30,344 - ebanking -INFO -set username
+2021-09-29 10:12:30,414 - ebanking -INFO -set password
+2021-09-29 10:12:30,894 - ebanking -INFO -submit
+2021-09-29 10:12:30,894 - ebanking -INFO -enter in alert page
+2021-09-29 10:12:32,711 - ebanking -INFO -Accept the alert
+2021-09-29 10:12:32,797 - ebanking -INFO -set username
+2021-09-29 10:12:32,879 - ebanking -INFO -set password
+2021-09-29 10:12:33,379 - ebanking -INFO -submit
+2021-09-29 10:12:33,379 - ebanking -INFO -enter in alert page
+2021-09-29 10:12:35,062 - ebanking -INFO -Accept the alert
